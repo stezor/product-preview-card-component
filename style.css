@@ -130,14 +130,6 @@ body {
     padding: 32px;
   }
 
-  .product-preview-card__text-content__title {
-    margin: 32px 0;
-  }
-
-  .product-preview-card__text-content__price {
-    margin: 40px 0;
-  }
-
   .product-preview-card__text-content__add-to-card__btn {
     cursor: pointer;
     transition: background-color 0.1s ease;
