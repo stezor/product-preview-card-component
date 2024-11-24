@@ -31,7 +31,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 90%;
-  max-width: 40rem;
+  max-width: 20rem;
   border-radius: 16px;
   background-color: var(--white);
   overflow: hidden;
@@ -113,6 +113,7 @@ body {
 @media screen and (min-width: 48rem) {
   .product-preview-card {
     flex-direction: row;
+    max-width: 40rem;
   }
 
   .product-preview-card__image-content,
